@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Khushi",
+      "lastName": "kumari",
+      "email": "khusi@gmail.com",
+      "mobile": "8457962130",
+      "salary": "$ 3500"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "rishav",
+      "email": "r@gmail.com",
+      "password": "12345",
+      "mobile": 9304201452,
+      "id": 4
+    },
+    {
+      "fullname": "Raghav",
+      "email": "raghav@gmail.com",
+      "password": "123",
+      "mobile": 7412589630,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
